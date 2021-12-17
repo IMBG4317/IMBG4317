@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @IMBG4317
 - 👀 I’m interested in ...The Universe and things in it
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... projects
-- 📫 How to reach me ... dm
+- 🌱 I’m currently learning ... C++, NOOB.
